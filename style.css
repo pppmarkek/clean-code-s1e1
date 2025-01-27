@@ -93,7 +93,7 @@ body {
   color: #555;
 }
 
-/* Заголовки секций */
+/* Section Headings */
 .todo-app__section {
   margin-bottom: 2rem;
 }
@@ -106,7 +106,7 @@ body {
   padding-bottom: 0.5rem;
 }
 
-/* Список задач */
+/* List of tasks */
 .todo-app__list {
   list-style: none;
   margin: 0;
